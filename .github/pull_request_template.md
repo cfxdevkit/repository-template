@@ -4,8 +4,8 @@ _Concise description of proposed changes, We recommend using screenshots and vid
 
 ## Additional Information
 
-- [ ] I have read the [contributing docs](GITHUBUSER/conflux-devkit/blob/main/CONTRIBUTING.md) (if this is your first contribution)
-- [ ] This is not a duplicate of any [existing pull request](https://github.com/GITHUBUSER/conflux-devkit/pulls)
+- [ ] I have read the [contributing docs](cfxdevkit/repository-template/blob/main/CONTRIBUTING.md) (if this is your first contribution)
+- [ ] This is not a duplicate of any [existing pull request](https://github.com/cfxdevkit/repository-template/pulls)
 
 ## Related Issues
 
